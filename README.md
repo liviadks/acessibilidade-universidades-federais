@@ -5,7 +5,6 @@ Projeto de análise de dados que avalia a acessibilidade da página inicial de 2
 **Pergunta do projeto:** quão acessíveis são esses sites e quais erros mais se repetem?
 
 - Dashboard interativo: https://datastudio.google.com/reporting/3e601cfb-b5fb-4b4c-958f-870da9666536
-- Estudo de caso completo: em andamento
 
 ## Método
 
