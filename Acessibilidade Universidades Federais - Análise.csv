@@ -1,0 +1,37 @@
+Tipo de erro,Nº de sites,% dos sites testados,,Região,Nº de sites,Nota média Lighthouse,Média de erros WAVE
+Links idênticos,21,"77,78%",,Sul,3,"62,3","44,3"
+Link sem nome,20,"74,07%",,Sudeste,4,"86,5","8,5"
+Baixo contraste,17,"62,96%",,Centro-Oeste,4,"80,5","31,5"
+Títulos fora de ordem,17,"62,96%",,Nordeste,9,"83,1","14,8"
+Sem alt,13,"48,15%",,Norte,7,"79,4","31,4"
+Alvo de toque pequeno,13,"48,15%",,,,,
+Botão sem nome,11,"40,74%",,,,,
+Lista mal estruturada,9,"33,33%",,,,,
+iframe sem título,8,"29,63%",,Sigla,Região,Nota Lighthouse,Nº de erros WAVE
+Sem main,8,"29,63%",,UFMG,Sudeste,97,8
+ARIA incompatível,6,"22,22%",,UFES,Sudeste,96,0
+Cabeçalho vazio,4,"14,81%",,UFMA,Nordeste,92,3
+Accesskey duplicado,4,"14,81%",,UFAL,Nordeste,90,4
+Zoom bloqueado,3,"11,11%",,UNB,Centro-Oeste,89,10
+Sem lang,2,"7,41%",,UFPI,Nordeste,89,20
+Skip link sem foco,2,"7,41%",,UNIFAP,Norte,88,59
+Campo ARIA sem nome,2,"7,41%",,UFS,Nordeste,87,0
+Link só por cor,1,"3,70%",,UFPA,Norte,87,12
+Tabindex maior que 0,1,"3,70%",,UFRJ,Sudeste,84,16
+Sem title,1,"3,70%",,UFBA,Nordeste,83,36
+Falta estrutura de atalho,1,"3,70%",,UFT,Norte,83,24
+Select sem label,1,"3,70%",,UFMT,Centro-Oeste,82,28
+Formulário sem label,1,"3,70%",,UFMS,Centro-Oeste,80,36
+,,,,UFPE,Nordeste,77,12
+,,,,UFPB,Nordeste,77,16
+,,,,UFC,Nordeste,77,27
+,,,,UFAC,Norte,77,16
+,,,,UFRN,Nordeste,76,
+,,,,UNIR,Norte,75,40
+,,,,UFAM,Norte,74,16
+,,,,UFRR,Norte,72,53
+,,,,UFG,Centro-Oeste,71,52
+,,,,UFRGS,Sul,70,12
+,,,,UNIFESP,Sudeste,69,10
+,,,,UFPR,Sul,64,52
+,,,,UFSC,Sul,53,69
